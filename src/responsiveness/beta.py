@@ -4,7 +4,12 @@
 # 2020, December
 # Analytic trading experiences
 #
-#
+# Pancada do Dharma:
+# De alguma forma, nós pensamos que se fizermos alguma manobra sofisticada,
+# ficará tudo bem no samsara. Mas a própria natureza do samsara é a 
+# insatisfatoriedade. É a natureza as coisas estarem às vezes bem, 
+# e outras vezes não
+# Jetsunma Tenzin Palmo
 ##
 
 import numpy as np
